@@ -19,5 +19,18 @@ This project is a simple drag-and-drop file upload feature built using React. It
 ## Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/dragDrop.git
+
+         git clone https://github.com/your-username/dragDrop.git
+      
+         Navigate to the project directory:
+         
+         cd dragDrop
+         Install dependencies: Make sure you have Node.js and npm installed.
+         
+         
+         npm install
+         Start the development server:
+         
+         
+         npm start
+         Open http://localhost:3000 in your browser to see the application running.
