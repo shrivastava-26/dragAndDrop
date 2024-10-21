@@ -34,3 +34,21 @@ This project is a simple drag-and-drop file upload feature built using React. It
          
          npm start
          Open http://localhost:3000 in your browser to see the application running.
+
+
+
+
+
+
+         
+         dragDrop/
+         │
+         ├── public/                     # Static files like index.html
+         ├── src/                        # Source code for the project
+         │   ├── components/             # React components
+         │   ├── App.js                  # Main App component
+         │   ├── index.js                # Entry point of the app
+         │   ├── App.css                 # Styles for the app
+         │   └── ...                     # Additional files and assets
+         ├── package.json                # Project dependencies and scripts
+         └── README.md                   # Project README file
