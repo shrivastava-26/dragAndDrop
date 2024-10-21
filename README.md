@@ -36,11 +36,13 @@ This project is a simple drag-and-drop file upload feature built using React. It
          Open http://localhost:3000 in your browser to see the application running.
 
 
+## Usage
+Drag and drop one or more files into the drag-and-drop area, or click the area to select files from your device.
+Once files are selected or dropped, they will be displayed in the file list.
+The project can be further extended to handle file uploads to a server.
 
+## Project Structure
 
-
-
-         
          dragDrop/
          │
          ├── public/                     # Static files like index.html
