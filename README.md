@@ -2,7 +2,7 @@
 
 This project is a simple drag-and-drop file upload feature built using React. It allows users to drag and drop files into a designated area or select files using a file input to upload them. The project uses basic React functionality and modern JavaScript to handle file uploads efficiently.
 
-## Features
+### Features
 
 - **Drag and Drop Support:** Easily drag and drop files into the upload area.
 - **File Input Support:** Option to select files using the traditional file input.
